@@ -1,1 +1,0 @@
-http://static-app-test.joe-rajewski.sbx.hashidemos.io
